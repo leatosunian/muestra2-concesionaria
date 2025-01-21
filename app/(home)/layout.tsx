@@ -10,7 +10,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Home | Aspen Automotores",
+  title: "Home | Te lo Vendo",
   description: "Encontrá el auto de tus sueños al mejor precio.",
 };
 
